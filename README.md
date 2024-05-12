@@ -7,7 +7,7 @@
 Project "pdsnd_github"
 
 ### Description
-Describe what your project is about and what it does
+This project is to satisfy udacity project "Post Your Work on Github"
 
 ### Files used
 Include the files used
