@@ -10,7 +10,7 @@ Project "pdsnd_github"
 This project is to satisfy udacity project "Post Your Work on Github"
 
 ### Files used
-Include the files used
+README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
